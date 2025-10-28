@@ -336,7 +336,7 @@ header {
   }
   .Big-Size-Pic {
     margin-top: 30px;
-    background-image: url("/img/bg2.png");
+    background-image: url("bg2.png");
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -401,7 +401,7 @@ header {
     margin-bottom: 0px;
   }
   .hero-nestedPic2 {
-    background-image: url("/img/img2.png");
+    background-image: url("img2.png");
     width: 350px;
     height: 200px;
     background-size: cover;
@@ -411,7 +411,7 @@ header {
     justify-self: center;
   }
   .hero-nestedPic {
-    background-image: url("/img/img1.png");
+    background-image: url("img1.png");
     width: 350px;
     height: 200px;
     background-size: cover;
@@ -554,3 +554,4 @@ header {
     align-items: center;
   }
 }
+
